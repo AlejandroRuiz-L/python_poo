@@ -28,9 +28,5 @@ def libros():
   #añadimos cada libro al diccionario principal(books)
   biblioteca.add_books([l1, l2, l3, l4, l5, l6, l7])
   return b.get_books()
-def login(name, password):
-  pass
-d = {}
-#print(dir(d))
-#print(dir(biblioteca))
-help(d)
+#def login(name, password):
+#  pass
